@@ -1,10 +1,10 @@
-# ☀️ Sun Dental — Premium 3D Dental Website
+#  Sun Dental — Premium 3D Dental Website
 
 A stunning, immersive 3D dental clinic website for **Sun Dental, Kalaburagi** built with React, TypeScript, Three.js, Framer Motion & Tailwind CSS.
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -19,7 +19,7 @@ http://localhost:5173
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Tech | Purpose |
 |------|---------|
@@ -32,7 +32,7 @@ http://localhost:5173
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sun-dental/
@@ -68,24 +68,24 @@ sun-dental/
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🦷 **Custom 3D Tooth Model** — Built with Three.js geometry, floating & rotating
-- 🔧 **Orbiting Dental Tools** — Mirror, scaler, gems orbit the tooth
-- ✨ **Particle Field** — Subtle floating particles in hero background
-- 🪟 **Glassmorphism UI** — Frosted glass cards throughout
-- 🎬 **Framer Motion Animations** — Scroll-triggered, hover, spring physics
-- 🖱️ **Custom Glow Cursor** — Smooth trailing cursor with glow
-- ⏳ **Loading Screen** — 3D spinning tooth loader
-- 📱 **Fully Responsive** — Mobile + tablet + desktop
-- 🗺️ **3D Location Pin** — Interactive Three.js map element
-- 📝 **Animated Contact Form** — Glass inputs with floating labels
-- ⭐ **Review Carousel** — Auto-scrolling testimonials
-- 🔤 **Marquee Banner** — Smooth infinite scroll
+-  **Custom 3D Tooth Model** — Built with Three.js geometry, floating & rotating
+-  **Orbiting Dental Tools** — Mirror, scaler, gems orbit the tooth
+-  **Particle Field** — Subtle floating particles in hero background
+-  **Glassmorphism UI** — Frosted glass cards throughout
+-  **Framer Motion Animations** — Scroll-triggered, hover, spring physics
+-  **Custom Glow Cursor** — Smooth trailing cursor with glow
+-  **Loading Screen** — 3D spinning tooth loader
+-  **Fully Responsive** — Mobile + tablet + desktop
+-  **3D Location Pin** — Interactive Three.js map element
+-  **Animated Contact Form** — Glass inputs with floating labels
+-  **Review Carousel** — Auto-scrolling testimonials
+-  **Marquee Banner** — Smooth infinite scroll
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 **Colors:**
 - Navy: `#050d1a` — base background
@@ -99,11 +99,11 @@ sun-dental/
 
 ---
 
-## 📞 Clinic Info
+##  Clinic Info
 
 - **Name:** Sun Dental
 - **Address:** Shop No. 10, MBH Complex, Near Kharge Petrol Bunk, Sedam Road, Kalaburagi, Karnataka 585105
 - **Phone:** 099646 11955
 - **Hours:** Mon–Sun, 10:00 AM – 10:00 PM
-- **Rating:** ⭐ 5.0 (786 Reviews)
+- **Rating:**  5.0 (786 Reviews)
 
