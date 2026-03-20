@@ -10,7 +10,7 @@ const socials = [
 
 const links = {
   Services: ['Root Canal', 'Teeth Cleaning', 'Extraction', 'Braces', 'Laminates', 'Checkup'],
-  Hours: ['Mon – Sun', '10:00 AM – 10:00 PM', 'Walk-ins Welcome', 'Appointments Preferred'],
+  Hours: ['Mon – Sun', '10:00 AM – 08:00 PM', 'Walk-ins Welcome', 'Appointments Preferred'],
 };
 
 export default function FooterSection() {
