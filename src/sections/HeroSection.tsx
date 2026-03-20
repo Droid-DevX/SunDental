@@ -30,7 +30,7 @@ export default function HeroSection() {
             className={`inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full text-xs font-mono mb-6 border shadow-sm whitespace-nowrap ${isOpen ? 'text-primary border-primary-100' : 'text-red-500 border-red-100'}`}
           >
             <span className={`w-2 h-2 rounded-full animate-pulse shrink-0 ${isOpen ? 'bg-emerald-400' : 'bg-red-500'}`} />
-            {isOpen ? 'Open Today · 10:00 AM – 10:00 PM' : 'Closed · Opens at 10:00 AM'}
+            {isOpen ? 'Open Today · 10:00 AM – 08:00 PM' : 'Closed · Opens at 10:00 AM'}
           </motion.div>
 
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-[1.05] tracking-tight mb-6">
