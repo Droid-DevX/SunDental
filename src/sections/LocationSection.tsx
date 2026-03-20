@@ -103,7 +103,7 @@ export default function LocationSection() {
               </div>
               <div className="grid grid-cols-2 gap-3 text-sm px-1">
                 <div className="text-gray-500 font-medium">Monday – Sunday</div>
-                <div className="text-primary font-bold">10:00 AM – 10:00 PM</div>
+                <div className="text-primary font-bold">10:00 AM – 08:00 PM</div>
                 <div className="text-gray-500 font-medium">Phone Number</div>
                 <a href="tel:09964611955" className="text-primary font-bold hover:text-primary-dark transition-colors">099646 11955</a>
               </div>
