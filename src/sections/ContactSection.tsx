@@ -120,7 +120,7 @@ export default function ContactSection() {
             {/* Contact quick info */}
             {[
               { icon: Phone, label: 'Call Us', value: '099646 11955', href: 'tel:09964611955' },
-              { icon: Clock, label: 'Hours', value: isOpen ? 'Open Now · Closes at 10 PM' : 'Closed · Opens at 10 AM', href: undefined },
+              { icon: Clock, label: 'Hours', value: isOpen ? 'Open Now · Closes at 08 PM' : 'Closed · Opens at 10 AM', href: undefined },
               { icon: MapPin, label: 'Address', value: 'MBH Complex, Kalaburagi', href: 'https://www.google.com/maps?q=17.3258575,76.8536312' },
             ].map((item, i) => (
               <motion.div
